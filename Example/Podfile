@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'CountryCodeValidation_Example' do
+  pod 'CountryCodeValidation', :path => '../'
+
+  target 'CountryCodeValidation_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
