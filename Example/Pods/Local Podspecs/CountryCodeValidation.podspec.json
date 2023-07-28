@@ -1,0 +1,22 @@
+{
+  "name": "CountryCodeValidation",
+  "version": "0.1.0",
+  "summary": "A short description of CountryCodeValidation.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/hrRashmitha725/CountryCodeValidation",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hrRashmitha725": "rashmitha.rangaswamy@softsuave.com"
+  },
+  "source": {
+    "git": "https://github.com/hrRashmitha725/CountryCodeValidation.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "CountryCodeValidation/Classes/**/*"
+}

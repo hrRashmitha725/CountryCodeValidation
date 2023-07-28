@@ -1,0 +1,6 @@
+framework module CountryCodeValidation {
+  umbrella header "CountryCodeValidation-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - CountryCodeValidation (0.1.0)
+
+DEPENDENCIES:
+  - CountryCodeValidation (from `../`)
+
+EXTERNAL SOURCES:
+  CountryCodeValidation:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CountryCodeValidation: 18749a70dc15ce39eb33e6323e089132c33e47ec
+
+PODFILE CHECKSUM: a8b493b2a28cc5f9cfa688f733b5c40bbb446023
+
+COCOAPODS: 1.10.2
